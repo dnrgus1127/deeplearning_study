@@ -1,0 +1,5 @@
+Functional API와 Sequential API 장단점
+
+Functianal API 사용 시 다중 입력 다중 출력 가능하다.
+
+ 
