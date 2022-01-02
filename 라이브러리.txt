@@ -1,0 +1,5 @@
+tensor2 
+
+텐서플로 gpu - 2.1.0
+numpy 1.17.0
+datasets 4.0.0

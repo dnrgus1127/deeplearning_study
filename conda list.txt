@@ -1,0 +1,149 @@
+(tensorflow) C:\Users\WIN10>conda list
+# packages in environment at C:\ProgramData\Anaconda3\envs\tensorflow:
+#
+# Name                    Version                   Build  Channel
+_tflow_select             2.1.0                       gpu    anaconda
+absl-py                   0.12.0                   pypi_0    pypi
+aiohttp                   3.6.3            py37he774522_0    anaconda
+argcomplete               1.12.3             pyhd3eb1b0_0
+argon2-cffi               21.3.0                   pypi_0    pypi
+argon2-cffi-bindings      21.2.0                   pypi_0    pypi
+astor                     0.8.1                    py37_0    anaconda
+async-timeout             3.0.1                    py37_0    anaconda
+attrs                     20.2.0                     py_0    anaconda
+backcall                  0.2.0              pyhd3eb1b0_0
+blas                      1.0                         mkl
+bleach                    4.1.0                    pypi_0    pypi
+blinker                   1.4                      py37_0    anaconda
+brotlipy                  0.7.0           py37he774522_1000    anaconda
+ca-certificates           2020.10.14                    0    anaconda
+cachetools                4.1.1                      py_0    anaconda
+certifi                   2020.6.20                py37_0    anaconda
+cffi                      1.14.3           py37h7a1dbc1_0    anaconda
+chardet                   3.0.4                 py37_1003    anaconda
+click                     7.1.2                      py_0    anaconda
+colorama                  0.4.4              pyhd3eb1b0_0
+cryptography              3.1.1            py37h7a1dbc1_0    anaconda
+cudatoolkit               10.1.243             h74a9793_0    anaconda
+cudnn                     7.6.5                cuda10.1_0    anaconda
+debugpy                   1.5.1            py37hd77b12b_0
+decorator                 5.1.0              pyhd3eb1b0_0
+defusedxml                0.7.1                    pypi_0    pypi
+dill                      0.3.4                    pypi_0    pypi
+entrypoints               0.3                      pypi_0    pypi
+gast                      0.2.2                    py37_0    anaconda
+google-auth               1.22.1                     py_0    anaconda
+google-auth-oauthlib      0.4.1                      py_2    anaconda
+google-pasta              0.2.0                      py_0    anaconda
+googleapis-common-protos  1.53.0                   pypi_0    pypi
+graphviz                  2.38                 hfd603c8_2
+grpcio                    1.31.0           py37he7da953_0    anaconda
+h5py                      2.10.0           py37h5e291fa_0    anaconda
+hdf5                      1.10.4               h7ebc959_0    anaconda
+icc_rt                    2019.0.0             h0cc432a_1
+idna                      2.10                       py_0    anaconda
+importlib-metadata        4.8.2            py37haa95532_0
+importlib-resources       5.4.0                    pypi_0    pypi
+importlib_metadata        4.8.2                hd3eb1b0_0
+intel-openmp              2021.4.0          haa95532_3556
+ipykernel                 6.4.1            py37haa95532_1
+ipython                   7.29.0           py37hd4e2768_0
+ipython_genutils          0.2.0              pyhd3eb1b0_1
+ipywidgets                7.6.5                    pypi_0    pypi
+jedi                      0.18.0           py37haa95532_1
+jinja2                    3.0.3                    pypi_0    pypi
+jsonschema                4.3.2                    pypi_0    pypi
+jupyter                   1.0.0                    pypi_0    pypi
+jupyter-console           6.4.0                    pypi_0    pypi
+jupyter_client            7.1.0              pyhd3eb1b0_0
+jupyter_core              4.9.1            py37haa95532_0
+jupyterlab-pygments       0.1.2                    pypi_0    pypi
+jupyterlab-widgets        1.0.2                    pypi_0    pypi
+keras-applications        1.0.8                      py_1    anaconda
+keras-preprocessing       1.1.0                      py_1    anaconda
+libprotobuf               3.13.0.1             h200bbdf_0    anaconda
+markdown                  3.3.2                    py37_0    anaconda
+markupsafe                2.0.1                    pypi_0    pypi
+matplotlib-inline         0.1.2              pyhd3eb1b0_2
+mistune                   0.8.4                    pypi_0    pypi
+mkl                       2019.4                      245
+mkl-service               2.3.0            py37h196d8e1_0
+mkl_fft                   1.3.0            py37h46781fe_0
+mkl_random                1.1.0            py37h675688f_0
+multidict                 4.7.6            py37he774522_1    anaconda
+nbclient                  0.5.9                    pypi_0    pypi
+nbconvert                 6.3.0                    pypi_0    pypi
+nbformat                  5.1.3                    pypi_0    pypi
+nest-asyncio              1.5.4                    pypi_0    pypi
+notebook                  6.4.6                    pypi_0    pypi
+numpy                     1.17.0           py37h19fb1c0_0
+numpy-base                1.17.0           py37hc3f5095_0
+oauthlib                  3.1.0                      py_0    anaconda
+openssl                   1.1.1l               h2bbff1b_0
+opt_einsum                3.1.0                      py_0    anaconda
+packaging                 21.3                     pypi_0    pypi
+pandocfilters             1.5.0                    pypi_0    pypi
+parso                     0.8.2              pyhd3eb1b0_0
+pickleshare               0.7.5           pyhd3eb1b0_1003
+pip                       21.2.4           py37haa95532_0
+prometheus-client         0.12.0                   pypi_0    pypi
+prompt-toolkit            3.0.20             pyhd3eb1b0_0
+protobuf                  3.13.0.1         py37ha925a31_1    anaconda
+pyasn1                    0.4.8                      py_0    anaconda
+pyasn1-modules            0.2.8                      py_0    anaconda
+pycparser                 2.20                       py_2    anaconda
+pydot                     1.4.2                    pypi_0    pypi
+pydot-ng                  2.0.0                    pypi_0    pypi
+pydotplus                 2.0.2                    pypi_0    pypi
+pygments                  2.10.0             pyhd3eb1b0_0
+pyjwt                     1.7.1                    py37_0    anaconda
+pyopenssl                 19.1.0                     py_1    anaconda
+pyparsing                 3.0.6                    pypi_0    pypi
+pyreadline                2.1                      py37_1    anaconda
+pyrsistent                0.18.0                   pypi_0    pypi
+pysocks                   1.7.1                    py37_1    anaconda
+python                    3.7.11               h6244533_0
+python-dateutil           2.8.2              pyhd3eb1b0_0
+python-graphviz           0.18                     pypi_0    pypi
+pywin32                   302              py37h827c3e9_1
+pywinpty                  1.1.6                    pypi_0    pypi
+pyzmq                     22.3.0           py37hd77b12b_2
+qtconsole                 5.2.2                    pypi_0    pypi
+qtpy                      2.0.0                    pypi_0    pypi
+requests                  2.24.0                     py_0    anaconda
+requests-oauthlib         1.3.0                      py_0    anaconda
+rsa                       4.6                        py_0    anaconda
+scipy                     1.5.2            py37h9439919_0    anaconda
+send2trash                1.8.0                    pypi_0    pypi
+setuptools                58.0.4           py37haa95532_0
+six                       1.16.0             pyhd3eb1b0_0
+sqlite                    3.37.0               h2bbff1b_0
+tensorboard               2.2.1              pyh532a8cf_0    anaconda
+tensorboard-plugin-wit    1.6.0                      py_0    anaconda
+tensorflow                2.1.0           gpu_py37h7db9008_0    anaconda
+tensorflow-base           2.1.0           gpu_py37h55f5790_0    anaconda
+tensorflow-estimator      2.6.0              pyh7b7c402_0
+tensorflow-gpu            2.1.0                h0d30ee6_0    anaconda
+tensorflow-metadata       1.4.0                    pypi_0    pypi
+termcolor                 1.1.0                    py37_1    anaconda
+terminado                 0.12.1                   pypi_0    pypi
+testpath                  0.5.0                    pypi_0    pypi
+tornado                   6.1              py37h2bbff1b_0
+tqdm                      4.62.3                   pypi_0    pypi
+traitlets                 5.1.1              pyhd3eb1b0_0
+typing-extensions         4.0.1                    pypi_0    pypi
+typing_extensions         3.10.0.2           pyh06a4308_0
+urllib3                   1.25.11                    py_0    anaconda
+vc                        14.2                 h21ff451_1
+vs2015_runtime            14.27.29016          h5e58377_2
+wcwidth                   0.2.5              pyhd3eb1b0_0
+webencodings              0.5.1                    pypi_0    pypi
+werkzeug                  0.14.1                   py37_0    anaconda
+wheel                     0.37.0             pyhd3eb1b0_1
+widgetsnbextension        3.5.2                    pypi_0    pypi
+win_inet_pton             1.1.0                    py37_0    anaconda
+wincertstore              0.2              py37haa95532_2
+wrapt                     1.12.1           py37he774522_1    anaconda
+yarl                      1.6.2            py37he774522_0    anaconda
+zipp                      3.6.0              pyhd3eb1b0_0
+zlib                      1.2.11           vc14h1cdd9ab_1  [vc14]  anaconda
